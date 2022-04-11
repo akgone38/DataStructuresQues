@@ -6,11 +6,11 @@ public class stack{
     private int top = -1;
 
     public stack(){
-        initialize(5);
+        this.initialize(5);
     }
 
     public stack(int size){
-        intialize(size);
+        this.intialize(size);
     }
 
     public void initialize(int size){
