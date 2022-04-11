@@ -1,4 +1,4 @@
-public class stack{
+public class queue{
     //class variables
     private int[] arr;
     private int front = 0, back = 0;
